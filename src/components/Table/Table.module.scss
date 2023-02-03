@@ -1,0 +1,9 @@
+.table {
+    display: grid;
+    .column {
+        border: 1px solid #000000;
+        padding: 10px;
+        font-size: 13px;
+        margin: 5px;
+    }
+}
